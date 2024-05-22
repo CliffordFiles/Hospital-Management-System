@@ -1,3 +1,5 @@
+-This is the correct flow of the folders and files
+
 ![okay](https://github.com/CliffordFiles/Hospital-Management-System/assets/123318605/56cf04d6-157f-4c28-a463-0954c0541937)
 
 *Please Make sure that all the design folders will be put inside the wwwroot.
